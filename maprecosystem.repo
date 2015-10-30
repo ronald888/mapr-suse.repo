@@ -1,0 +1,6 @@
+[maprecosystem]
+name=maprecosystem
+enabled=1
+autorefresh=0
+baseurl=http://package.mapr.com/releases/ecosystem/suse/
+type=rpm-md

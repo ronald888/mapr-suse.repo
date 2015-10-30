@@ -1,0 +1,6 @@
+[maprtech]
+name=maprtech
+enabled=1
+autorefresh=0
+baseurl=http://package.mapr.com/releases/v5.0.0/suse/
+type=rpm-md

@@ -1,0 +1,6 @@
+[open.repo]
+name=packman-essentials
+enabled=1
+autorefresh=1
+baseurl=http://mirror.karneval.cz/pub/linux/packman/suse/openSUSE_12.1/
+type=rpm-md
